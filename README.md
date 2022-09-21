@@ -6,4 +6,4 @@
 4) Check for CUDA installation by typing "nvcc --version"
 5) Install minKNOW 
 6) Install GPU-enabled Guppy, make sure using the same Guppy version as the one used by minKNOW (https://community.nanoporetech.com/docs/prepare/library_prep_protocols/experiment-companion-minknow/v/mke_1013_v1_revcl_11apr2016/installing-a-gpu-version-of-guppy-with-minknow-for-minion-on-windows)
-7) Change configuration for minKNOW to enable GPU base calling
+7) Change configuration for minKNOW to enable GPU base calling (use VS Code or any text editor to do this)
