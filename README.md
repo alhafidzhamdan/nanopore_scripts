@@ -1,5 +1,4 @@
-# ont_setup
-Walkthrough on setting up ONT system
+# Walkthrough on setting up ONT system
 
 1) Get a GPU enabled PC- our system is NVIDIA RTX 3080, run with Intel Core i9-12900K, 16 Cores, 24 Threads, 32Gb DDR5 SDRAM
 2) Check NVIDIA driver is installed by typing "nvidia-smi"
